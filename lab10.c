@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//new changes made
 char toChar(int value) {
     char newD;
     if(value >= 0 && value <= 9) {
